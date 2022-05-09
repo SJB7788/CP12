@@ -1,0 +1,13 @@
+Site 
+Total Width: 1519px
+character banner: 440.5px
+total(3): 1321.5px
+1519-1321.5/2=98.75px
+
+Centering Text/Images:
+#somelement {
+position: absolute;
+left: 50%;
+-webkit-transform: translateX(-50%);
+transform: translateX(-50%);
+}

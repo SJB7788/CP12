@@ -1,0 +1,8 @@
+<div id="grid">
+...
+</div>
+
+#gird {
+	display: grid;
+	grid-template-columns: __px/% 1fr;
+}
